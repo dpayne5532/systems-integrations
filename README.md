@@ -48,6 +48,13 @@ Webhook service that automates employee offboarding by disabling user accounts i
 
 ---
 
+### [Offshore Employee Database](Offshore_Employee_Database.md)
+Full-stack web application for tracking and managing offshore employees across the organization. Features employee CRUD operations, skills tracking, project allocations, and departmental assignments with a React/Vite frontend and Express.js backend.
+
+**Tech Stack:** React, Vite, Express.js, Azure Static Web Apps, Azure App Service, Azure SQL, Microsoft Entra ID
+
+---
+
 ## Common Patterns
 
 These projects share several architectural patterns:
