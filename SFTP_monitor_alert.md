@@ -334,5 +334,3 @@ SftpWatcherFunction/
 The SFTP Watcher provides automated file monitoring for critical business file transfers. Running every 5 minutes, it ensures teams are notified promptly when new files arrive, enabling faster response times for data processing workflows. The stateless, serverless architecture provides reliability while the per-client isolation ensures security and proper notification routing.
 
 ---
-
-*Document generated: January 2026*

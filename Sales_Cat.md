@@ -426,5 +426,3 @@ VITE_API_URL=https://sales-cat-backend.azurewebsites.net
 Sales-Cat provides a robust solution for organizations needing fast, searchable access to Salesforce data within their Azure infrastructure. The incremental sync strategy ensures data freshness while minimizing API calls, and the modern React frontend delivers a responsive user experience. Enterprise-grade security through Microsoft Entra ID and role-based access control makes it suitable for production use.
 
 ---
-
-*Document generated: January 2026*

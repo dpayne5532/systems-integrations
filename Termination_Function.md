@@ -310,5 +310,3 @@ The account is disabled, not deleted. Administrators can:
 The Termination Backend provides a critical security function: immediately revoking access when employees are terminated. Its dual-search strategy handles naming inconsistencies, while the deny list protects critical accounts from accidental disabling. The integration with SolarWinds Service Desk ensures a complete audit trail and enables IT teams to handle additional offboarding tasks.
 
 ---
-
-*Document generated: January 2026*

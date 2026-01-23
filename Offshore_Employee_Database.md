@@ -432,5 +432,3 @@ traces
 The Offshore Employee Database provides a comprehensive solution for managing offshore workforce data. Its modern React frontend offers an intuitive user experience with Catalyst branding, while the Express backend provides a robust API with full authentication. The integration with Microsoft Entra ID ensures enterprise-grade security, and Application Insights provides visibility into user activity. The system's modular design allows for easy extension with additional features as business needs evolve.
 
 ---
-
-*Document generated: January 2026*

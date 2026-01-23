@@ -265,5 +265,3 @@ paylocity-employee-change/
 This integration serves as a critical bridge between Paylocity HR data and Microsoft Entra ID, ensuring that employee organizational data remains synchronized across systems. The architecture prioritizes reliability through comprehensive error handling, auditability through Application Insights logging, and safety through dual-environment deployment.
 
 ---
-
-*Document generated: January 2026*

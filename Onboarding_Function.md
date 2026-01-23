@@ -253,5 +253,3 @@ The system handles multiple supervisor name formats:
 The Onboarding Backend automates the critical first steps of employee provisioning, ensuring new hires have accounts and licenses ready on their start date. Its resilient design allows the core user creation to succeed even when secondary operations (licensing, manager assignment, ticketing) encounter issues, with detailed response data enabling administrators to address any gaps.
 
 ---
-
-*Document generated: January 2026*

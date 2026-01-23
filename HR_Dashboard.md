@@ -236,5 +236,3 @@ hr-frontendsuite-combined/
 The HR Frontend Suite provides a streamlined, secure interface for HR teams to manage employee lifecycle events. Its simple architecture (vanilla HTML/CSS/JS) ensures fast loading and easy maintenance, while Azure Static Web Apps provides enterprise-grade hosting with built-in authentication. The dashboard connects seamlessly to backend Azure Functions that handle the actual provisioning and deprovisioning in Paylocity and Microsoft Entra ID.
 
 ---
-
-*Document generated: January 2026*
